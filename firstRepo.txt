@@ -1,2 +1,3 @@
 Hello this is my first repo.
-I already learned github. 
+I'm learning github
+
